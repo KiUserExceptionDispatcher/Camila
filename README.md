@@ -21,8 +21,8 @@ Camila is a modern C++ memory management library which provides a set of tools t
 
 # Current todo:
 - [x] Implement proper error handling for all functions
-- [ ] Implement memory-region information retrieval
+- [x] Implement memory-region information retrieval
 - [x] Implement module enumeration functionality
-- [ ] Implement better API for beginner-friendly usage
+- [x] Implement better API for beginner-friendly usage
 - [ ] Implement comprehensive documentation for all features and usage examples
 - [ ] Implement external dependencies such as argparse and a logging library for better usability and debugging

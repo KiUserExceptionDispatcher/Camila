@@ -225,3 +225,6 @@ cmake --build . --config Release
 
 ## 📄 License
 This project is open-source and licensed under the MIT License.
+
+# Note
+- I just accepted a pull-request, feel free to add new things to Camila.
